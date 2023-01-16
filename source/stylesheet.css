@@ -42,6 +42,7 @@
     cursor: pointer;
     font-size: 2rem;
     text-align: center;
+    background-clip:text;
 }
 
 .fa_logo{
